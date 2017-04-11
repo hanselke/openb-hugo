@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   
   <url>
-    <loc>http://www.openb.net/#the-problem</loc>
+    <loc>/www.openb.net/the-problem/</loc>
+    <lastmod>2017-03-14T18:18:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.openb.net/#our-solution</loc>
+    <loc>/www.openb.net/our-solution/</loc>
+    <lastmod>2017-03-14T18:21:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.openb.net/#application-library</loc>
+    <loc>/www.openb.net/application-library/</loc>
+    <lastmod>2017-03-14T19:20:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.openb.net/#</loc>
+    <loc>/www.openb.net/</loc>
+    <lastmod>2017-03-14T18:18:27+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
