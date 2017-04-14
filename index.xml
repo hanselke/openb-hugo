@@ -2,109 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A docker services company</title>
-    <link>/www.openb.net/index.xml</link>
+    <link>www.openb.net/</link>
     <description>Recent content on A docker services company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2017 18:18:27 +0800</lastBuildDate>
-    <atom:link href="/www.openb.net/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="www.openb.net/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Problem</title>
-      <link>/www.openb.net/the-problem/</link>
+      <link>www.openb.net/the-problem/</link>
       <pubDate>Tue, 14 Mar 2017 18:18:27 +0800</pubDate>
       
-      <guid>/www.openb.net/the-problem/</guid>
-      <description>&lt;p&gt;&lt;DIV class=&#34;dclr&#34;&gt;&lt;/DIV&gt;
-&lt;DIV id=&#34;id_1&#34;&gt;
-&lt;P class=&#34;p0 ft2&#34;&gt;The problem.&lt;/P&gt;
-&lt;P class=&#34;p2 ft3&#34;&gt;As a IT Solutions vendor, I need my own branded products that are low cost to deploy in order to make any money!&lt;/P&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/DIV&gt;&lt;/p&gt;
-</description>
+      <guid>www.openb.net/the-problem/</guid>
+      <description>The problem. As a IT Solutions vendor, I need my own branded products that are low cost to deploy in order to make any money!</description>
     </item>
     
     <item>
       <title>our solution</title>
-      <link>/www.openb.net/our-solution/</link>
+      <link>www.openb.net/our-solution/</link>
       <pubDate>Tue, 14 Mar 2017 18:21:16 +0800</pubDate>
       
-      <guid>/www.openb.net/our-solution/</guid>
-      <description>&lt;p&gt;&lt;TABLE cellpadding=0 cellspacing=0 class=&#34;t6&#34;&gt;
-&lt;tr&gt;
-    &lt;TD class=&#34;p0 ft2&#34;&gt;OpenB.Net Platform as a Service - Your very own Cloud Infrastructure&lt;/TD&gt;
-    &lt;TD class=&#34;p9 ft4&#34;&gt;a docker based infrastructure management system that’s easy to use.&lt;/TD&gt;
-    &lt;TD class=&#34;p11 ft12&#34;&gt;OpenB.net provides a full set of infrastructure services for containers, including networking, storage services, host management, load balancing and more. these services work across any infrastructure, and make it simple to reliably deploy and manage applications.&lt;/TD&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-    &lt;TD class=&#34;p0 ft11&#34;&gt;Happier devs. Happier ops.&lt;/TD&gt;
-    &lt;TD class=&#34;p13 ft12&#34;&gt;DevOps teams are often the first group that implement openb within an organization.&lt;/TD&gt;
-    &lt;TD class=&#34;p14 ft12&#34;&gt;openb plays a critical role in the software development pipeline, working with cI/cd tools to automate all aspects of software deployments into test, staging and production environments.&lt;/TD&gt;
-    &lt;TD class=&#34;p15 ft12&#34;&gt;ops teams love the visibility openb provides into hosts, containers, networking and storage. Making it simple to troubleshoot issues and deliver reliable deployments.&lt;/TD&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-    &lt;TD class=&#34;p0 ft11&#34;&gt;an app catalog You’ll actually Use.&lt;/TD&gt;
-    &lt;TD class=&#34;p16 ft12&#34;&gt;enterprise application catalogs are almost always awful. templates rarely work, apps are out of date, and god forbid you ever want to upgrade.&lt;/TD&gt;
-    &lt;TD class=&#34;p17 ft13&#34;&gt;the openb catalog is based on native docker compose files and can be stored in any git repository&lt;/TD&gt;
-&lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
-</description>
+      <guid>www.openb.net/our-solution/</guid>
+      <description>OpenB.Net Platform as a Service - Your very own Cloud Infrastructure a docker based infrastructure management system that’s easy to use. OpenB.net provides a full set of infrastructure services for containers, including networking, storage services, host management, load balancing and more. these services work across any infrastructure, and make it simple to reliably deploy and manage applications.   Happier devs. Happier ops. DevOps teams are often the first group that implement openb within an organization.</description>
     </item>
     
     <item>
       <title>Application Library</title>
-      <link>/www.openb.net/application-library/</link>
+      <link>www.openb.net/application-library/</link>
       <pubDate>Tue, 14 Mar 2017 19:20:29 +0800</pubDate>
       
-      <guid>/www.openb.net/application-library/</guid>
-      <description>&lt;p&gt;&lt;DIV id=&#34;id_1&#34;&gt;
-&lt;P class=&#34;p0 ft2&#34;&gt;SaaS producTS.&lt;/P&gt;
-&lt;P class=&#34;p2 ft3&#34;&gt;Your verY oWn cloud buSIneSS applIcatIonS Store.&lt;/P&gt;
-&lt;P class=&#34;p23 ft16&#34;&gt;We rebrand &lt;NOBR&gt;beSt-In-claSS&lt;/NOBR&gt; buSIneSS applIcatIonS WIth the rIGht lIcenSeS and Make theM YourS to Sell, avaIlable to launch In a feW clIckS.&lt;/P&gt;
-&lt;/DIV&gt;
-&lt;DIV id=&#34;page_7&#34;&gt;
-&lt;DIV id=&#34;p7dimg1&#34;&gt;
-&lt;IMG src=&#34;data:image/jpg;base64,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&#34; alt=&#34;&#34;&gt;&lt;/DIV&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;DIV id=&#34;id_1&#34;&gt;
-&lt;P class=&#34;p0 ft2&#34;&gt;SaaS producTS.&lt;/P&gt;
-&lt;P class=&#34;p2 ft3&#34;&gt;the &lt;NOBR&gt;beSt-In-claSS&lt;/NOBR&gt; productS avaIlable for WhItelabelInG.&lt;/P&gt;
-&lt;P class=&#34;p24 ft9&#34;&gt;&lt;A href=&#34;http://www.nextaction.co/saaslibrary&#34;&gt;&lt;SPAN class=&#34;ft5&#34;&gt;cLick Here &lt;/SPAN&gt;&lt;/A&gt;to broWSe froM our lIbrarY of &lt;NOBR&gt;&lt;A href=&#34;http://www.nextaction.co/saaslibrary&#34;&gt;pre-buIlt&lt;/A&gt;&lt;/NOBR&gt;&lt;A href=&#34;http://www.nextaction.co/saaslibrary&#34;&gt; InteGratIonS and proprIetarY &lt;/A&gt;&lt;NOBR&gt;&lt;A href=&#34;http://www.nextaction.co/saaslibrary&#34;&gt;add-onS&lt;/A&gt;&lt;/NOBR&gt;&lt;A href=&#34;http://www.nextaction.co/saaslibrary&#34;&gt; &lt;/A&gt;that Your coMpetItorS have no acceSS to.&lt;/P&gt;
-&lt;TABLE cellpadding=0 cellspacing=0 class=&#34;t6&#34;&gt;
-&lt;TR&gt;
-    &lt;TD class=&#34;tr9 td19&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;the best opensource erp system&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr9 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;digital marketing automation&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr9 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;&lt;NOBR&gt;Slack-like&lt;/NOBR&gt; enterprise chat system&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr9 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;Kaizen workflow management&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr9 td21&#34;&gt;&lt;P class=&#34;p5 ft17&#34;&gt;Your private dropbox/google drive&lt;/P&gt;&lt;/TD&gt;
-&lt;/TR&gt;
-&lt;TR&gt;
-    &lt;TD class=&#34;tr13 td19&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$150/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr13 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$100/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr13 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$100/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr13 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$100/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr13 td21&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$400/application monthly&lt;/P&gt;&lt;/TD&gt;
-&lt;/TR&gt;
-&lt;/TABLE&gt;
-&lt;TABLE cellpadding=0 cellspacing=0 class=&#34;t7&#34;&gt;
-&lt;TR&gt;
-    &lt;TD class=&#34;tr14 td19&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;cMS website&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr14 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;visualisation dashboard&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr14 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;project management platform&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr14 td22&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;Your own trello.com&lt;/P&gt;&lt;/TD&gt;
-&lt;/TR&gt;
-&lt;TR&gt;
-    &lt;TD class=&#34;tr3 td19&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$10/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr3 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$1,500/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr3 td20&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$150/application monthly&lt;/P&gt;&lt;/TD&gt;
-    &lt;TD class=&#34;tr3 td22&#34;&gt;&lt;P class=&#34;p5 ft8&#34;&gt;$100/application monthly&lt;/P&gt;&lt;/TD&gt;
-&lt;/TR&gt;
-&lt;/TABLE&gt;
-&lt;P class=&#34;p25 ft18&#34;&gt;to note: pricing for SaaS products are based on $100/mth per 1Gb raM + 10Gb hdd + S3 backup for 90 days.&lt;/P&gt;
-&lt;P class=&#34;p26 ft18&#34;&gt;If any application uses more resources, it would be charged at a &lt;NOBR&gt;pro-rated&lt;/NOBR&gt; rate with minimum of 250k ram + 2.5Gb hdd increments.&lt;/P&gt;
-&lt;P class=&#34;p27 ft19&#34;&gt;nextaction Silver partner license for $20,000/mth would reduce pricing for SaaS products to $60/mth per 1Gb raM + 10Gb hdd + S3 backup for 90 days. nextaction Gold partner license for $120,000/mth would reduce pricing for SaaS products to $40/mth per 1Gb raM + 10Gb hdd + S3 backup for 90 days.&lt;/P&gt;
-&lt;/DIV&gt;&lt;/p&gt;
-</description>
+      <guid>www.openb.net/application-library/</guid>
+      <description>SaaS producTS. Your verY oWn cloud buSIneSS applIcatIonS Store. We rebrand beSt-In-claSS buSIneSS applIcatIonS WIth the rIGht lIcenSeS and Make theM YourS to Sell, avaIlable to launch In a feW clIckS.  
+SaaS producTS. the beSt-In-claSS productS avaIlable for WhItelabelInG. cLick Here to broWSe froM our lIbrarY of pre-buIltInteGratIonS and proprIetarY add-onSthat Your coMpetItorS have no acceSS to.  the best opensource erp system digital marketing automation Slack-like enterprise chat system Kaizen workflow management Your private dropbox/google drive   $150/application monthly $100/application monthly $100/application monthly $100/application monthly $400/application monthly    cMS website visualisation dashboard project management platform Your own trello.</description>
     </item>
     
   </channel>

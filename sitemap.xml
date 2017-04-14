@@ -2,23 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/www.openb.net/the-problem/</loc>
+    <loc>www.openb.net/the-problem/</loc>
     <lastmod>2017-03-14T18:18:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.openb.net/our-solution/</loc>
+    <loc>www.openb.net/our-solution/</loc>
     <lastmod>2017-03-14T18:21:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.openb.net/application-library/</loc>
+    <loc>www.openb.net/application-library/</loc>
     <lastmod>2017-03-14T19:20:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.openb.net/</loc>
+    <loc>www.openb.net/</loc>
     <lastmod>2017-03-14T18:18:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.openb.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.openb.net/tags/</loc>
     <priority>0</priority>
   </url>
   
